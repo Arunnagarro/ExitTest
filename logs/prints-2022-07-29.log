@@ -1,0 +1,6 @@
+10:37:06.219 [main] INFO  BaseTest.BaseClass - Application is Launch for Validate Animation Option
+10:37:15.325 [main] INFO  BaseTest.BaseClass - Application is Launch for Validate App Option
+10:37:22.973 [main] INFO  BaseTest.BaseClass - Application is Launch for Validate Accessibility option
+10:37:28.286 [main] INFO  BaseTest.BaseClass - Application is Launch for Validate Text option
+10:37:28.864 [main] INFO  BaseTest.BaseClass - Scrolling the screen
+10:37:41.496 [main] INFO  BaseTest.BaseClass - Application is Launch for Validate Views option

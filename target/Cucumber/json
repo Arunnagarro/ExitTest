@@ -1,0 +1,517 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: arunsinghratwaana@gmail.com"
+      }
+    ],
+    "line": 4,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7006924600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.launchandinstallapp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Verify Default Layout Animations",
+        "description": "",
+        "id": "validate-different-options-in-animation;verify-default-layout-animations",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 496608100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I opened the application",
+            "match": {
+              "location": "Animation_step.i_opened_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1273481400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I tap on Animation",
+            "match": {
+              "location": "Animation_step.i_tap_on_Animation()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 172585400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I tap on Default Layout Animations",
+            "match": {
+              "location": "Animation_step.i_tap_on_Default_Layout_Animations()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1829478700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I tab on two times ADD BUTTON",
+            "match": {
+              "location": "Animation_step.i_tab_on_two_times_ADD_BUTTON()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1814626400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I remove the BUTTON",
+            "match": {
+              "location": "Animation_step.i_remove_the_Button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validate Different Options in Animation",
+    "description": "",
+    "id": "validate-different-options-in-animation",
+    "keyword": "Feature",
+    "uri": "Animation.feature",
+    "tags": [
+      {
+        "line": 3,
+        "name": "@tag1"
+      }
+    ]
+  },
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: arunsinghratwaana@gmail.com"
+      }
+    ],
+    "line": 4,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6540428000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.launchandinstallapp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Validate App option",
+        "description": "",
+        "id": "validate-different-options-in-app;validate-app-option",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 403974100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I opened the Application",
+            "match": {
+              "location": "App_step.i_opened_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 211447200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I tab on App option",
+            "match": {
+              "location": "App_step.i_tab_on_App_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 954009900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on Action Bar option",
+            "match": {
+              "location": "App_step.i_click_on_Action_Bar_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1299368900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I tab on Display Options",
+            "match": {
+              "location": "App_step.i_tab_on_Display_Options()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1850254300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on NAVIGATION",
+            "match": {
+              "location": "App_step.i_click_on_NAVIGATION()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 774482400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "click on DISPLAY_SHOW_TITLE",
+            "match": {
+              "location": "App_step.click_on_DISPLAY_SHOW_TITLE()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Validate Different Options in App",
+    "description": "",
+    "id": "validate-different-options-in-app",
+    "keyword": "Feature",
+    "uri": "App.feature",
+    "tags": [
+      {
+        "line": 3,
+        "name": "@tag1"
+      }
+    ]
+  },
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: arunsinghratwaana@gmail.com"
+      }
+    ],
+    "line": 4,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8010889600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.launchandinstallapp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Validate Custom View",
+        "description": "",
+        "id": "validate-different-options-in-accessibility;validate-custom-view",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 540722200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open the application",
+            "match": {
+              "location": "CustomView_step.i_open_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 277818100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I tap on Accessibility",
+            "match": {
+              "location": "CustomView_step.i_tap_on_accessibility()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1096474100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I validate Custom View",
+            "match": {
+              "location": "CustomView_step.i_validate_custom_view()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validate Different Options in Accessibility",
+    "description": "",
+    "id": "validate-different-options-in-accessibility",
+    "keyword": "Feature",
+    "uri": "CustomView.feature",
+    "tags": [
+      {
+        "line": 3,
+        "name": "@tag1"
+      }
+    ]
+  },
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: arunsinghratwaana@gmail.com"
+      }
+    ],
+    "line": 4,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5279002800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.launchandinstallapp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Validate Text option",
+        "description": "",
+        "id": "validate-different-options-in-text;validate-text-option",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 315106400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I launching the App",
+            "match": {
+              "location": "Text_step.i_launching_the_App()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 603262800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I scrolling the screen",
+            "match": {
+              "location": "Text_step.i_scrolling_the_screen()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 403789700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on Text option",
+            "match": {
+              "location": "Text_step.i_click_on_Text_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1004738400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I tab on LogTextBox",
+            "match": {
+              "location": "Text_step.i_tab_on_LogTextBox()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7212326400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on Add button tow times",
+            "match": {
+              "location": "Text_step.i_click_on_Add_button_tow_times()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validate Different Options in Text",
+    "description": "",
+    "id": "validate-different-options-in-text",
+    "keyword": "Feature",
+    "uri": "Text.feature",
+    "tags": [
+      {
+        "line": 3,
+        "name": "@tag1"
+      }
+    ]
+  },
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: arunsinghratwaana@gmail.com"
+      }
+    ],
+    "line": 4,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3900441500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.launchandinstallapp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Validate Views option",
+        "description": "",
+        "id": "validate-different-option-in-views;validate-views-option",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 410748600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I Start the app",
+            "match": {
+              "location": "Views_step.i_Start_the_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 504127200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I swipe the screen Vertically",
+            "match": {
+              "location": "Views_step.i_swipe_the_screen_Vertically()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 472050000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I tab on Views",
+            "match": {
+              "location": "Views_step.i_tab_on_Views()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 896114300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on Animation",
+            "match": {
+              "location": "Views_step.i_click_on_Animation()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 839887400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on Transition",
+            "match": {
+              "location": "Views_step.i_click_on_Transition()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 805869600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I tab on Lyon",
+            "match": {
+              "location": "Views_step.i_tab_on_Lyon()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validate Different Option in Views",
+    "description": "",
+    "id": "validate-different-option-in-views",
+    "keyword": "Feature",
+    "uri": "Views.feature",
+    "tags": [
+      {
+        "line": 3,
+        "name": "@tag1"
+      }
+    ]
+  }
+]
